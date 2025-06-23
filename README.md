@@ -18,8 +18,9 @@ MINECHAT é um jogo interativo transmitido ao vivo em formato vertical no YouTub
 
 ### Entrada no jogo:
 
-* O jogador digita `!Join` no chat da live para entrar na fila.
+* O jogador digita `!Join` no chat da live para entrar no sorteio.
 * Quando dois jogadores estão prontos, eles são convocados para batalha.
+* São sorteados dois jogadores que são aleátorios
 
 ### Regras da Batalha:
 

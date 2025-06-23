@@ -1,6 +1,6 @@
 # 🧠 MINECHAT
 
-**Jogo Bonito e Lutas Interativas Entre Inscritos em uma Live no YouTube**
+**Jogo Suave e Lutas Interativas Entre Inscritos em uma Live no YouTube**
 
 MINECHAT é um jogo interativo transmitido ao vivo em formato vertical no YouTube, onde crianças e adolescentes podem digitar comandos no chat para entrar em batalhas 1x1 com criaturas estilo Minecraft. O jogo mistura elementos de RPG, sorte, colecionáveis e batalhas estratégicas, oferecendo uma experiência imersiva e divertida em tempo real.
 
